@@ -3,7 +3,7 @@ An amazing spy project
 With this project one can access an Andoid phone and track 
 A cloud based Android Monitoring Tool, powered by NodeJS
 
-Features
+Features::
 GPS Logging
 Microphone Recording
 View Contacts
@@ -21,10 +21,8 @@ Device Admin
 Built In APK Builder
 Try in PWD
 
-Run on Google Cloud
-
+Run on:: Google Cloud
 Deploy to Azure
-
 Deploy
 
 Installation on VPS or Server
