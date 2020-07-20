@@ -1,4 +1,4 @@
-# https://github.com/XploitWizer/XploitSPY/raw/master/server/assets/webpublic/logo.png
+#xploitspy
 An amazing spy project
 With this project one can access an Andoid phone and track 
 A cloud based Android Monitoring Tool, powered by NodeJS
